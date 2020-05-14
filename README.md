@@ -6,6 +6,7 @@
 Trying to get Snowpack working with tsc was a PITA
 
 TODO:
-Move to parcel
+Move to parcel - DONE
+Move to react router
 Build out UI
 Get types aligned by sharing io-ts stuff
