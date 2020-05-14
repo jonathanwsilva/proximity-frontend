@@ -1,4 +1,10 @@
 {
+  "name": "proximity-frontend",
+  "version": "0.0.0",
+  "description": "Client code for proximity - find local jobs",
+  "main": "build/server.js",
+  "author": "Jon Silva",
+  "license": "ISC",
   "scripts": {
     "prepare": "snowpack",
     "start": "snowpack dev",
